@@ -10,3 +10,4 @@ nrow(allState1)
 
 # taking a sneek pick of the data frame
 head(allState1,2)
+hist(allState1)
